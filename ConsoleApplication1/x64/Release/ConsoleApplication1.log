@@ -1,0 +1,16 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(214,16): warning C4129: 'R': unrecognized character escape sequence
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(218,16): warning C4129: 'M': unrecognized character escape sequence
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(301,20): warning C4778: 'printf' : unterminated format string '%'
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(375,25): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(376,25): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(377,25): warning C4129: 'E': unrecognized character escape sequence
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(39,13): warning C4102: 'reespoof': unreferenced label
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(166,12): warning C4102: 'limpiar': unreferenced label
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(249,12): warning C4102: 'coldwar': unreferenced label
+C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\ConsoleApplication1\ConsoleApplication1.cpp(323,13): warning C4102: 'fortnite': unreferenced label
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 84 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ConsoleApplication1.vcxproj -> C:\Users\Dango\OneDrive\Escritorio\Spoofer-Cleaner-main\x64\Release\ConsoleApplication1.exe
